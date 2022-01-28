@@ -1,5 +1,5 @@
 # gyft2.2
-### **gyft 2.2** is a feature update to gyft - *Get Your Freakin Timetable* by METAKGP available at <a href = https://github.com/metakgp/gyft> metakgp/gyft </a>
+### **gyft 2.2** is a feature update to gyft - *Get Your Freakin Timetable* by metaKGP available at <a href = https://github.com/metakgp/gyft> metakgp/gyft </a>
 
 
 ## What gyft does ? 
