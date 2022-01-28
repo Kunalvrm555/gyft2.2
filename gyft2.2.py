@@ -18,7 +18,6 @@ args = parser.parse_args()
 if args.user is None:
     args.user = input("Enter you Roll Number: ")
 erp_password = getpass.getpass("Enter your ERP password: ")
-
 # Parsing ends
 
 ERP_HOMEPAGE_URL = 'https://erp.iitkgp.ac.in/IIT_ERP3/'
